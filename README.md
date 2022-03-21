@@ -1,6 +1,6 @@
 ## Olá, eu sou o Filipe Bovolin :D
 
-- 🌱 Eu estou estudando: Python, PHP, Automatização de Processos e algumas outras linguagens back-end 
+- 🌱 Eu estou estudando: Python, PHP, Java, Automatização de Processos e algumas outras linguagens back-end 
 - 📫 Como entrar em contato: filipe.bovolin@gmail.com
 - 😄 Pronomes: Ele/Dele
 
