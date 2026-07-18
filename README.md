@@ -16,4 +16,4 @@
   
 ##
 
-![Snake animation](https://github.com/Bovolin/Bovolin/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
